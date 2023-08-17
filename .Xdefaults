@@ -1,0 +1,42 @@
+*font: xft:JetBrainsMono:size=10
+*scrollBar: false
+*depth: 32
+
+! special
+*.foreground:  #d1d5da
+*.background:  #1f2428
+*.cursorColor: #77dd77
+! *.cursorColor2: #586069
+
+! black
+*.color0: #586069
+*.color8: #959da5
+
+! red
+*.color1: #ea4a5a
+*.color9: #f97583
+
+! green:
+*.color2: #34d058
+*.color10: #85e89d
+
+! yellow
+*.color3: #ffea7f
+*.color11: #ffea7f
+
+! blue
+*.color4: #2188ff
+*.color12: #79b8ff
+
+! magenta
+*.color5: #b392f0
+*.color13: #b392f0
+
+! cyan
+*.color6: #39c5cf
+*.color14: #56d4dd
+
+! white
+*.color7: #d1d5da
+*.color15: #fafbfc
+
